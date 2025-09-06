@@ -1,0 +1,21 @@
+# Django
+Django>=5.0,<6.0
+
+# Database
+psycopg2-binary>=2.9  # PostgreSQL 사용 시
+
+# Environment
+django-environ
+
+# REST API
+djangorestframework
+
+# Utils
+pytz
+sqlparse
+
+# Dev tools
+black
+isort
+flake8
+django-debug-toolbar
